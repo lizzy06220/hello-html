@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <title>HTML Tags Cheat Sheet</title>
+  </head>
+  <body>
+    <h1>HTML Tags Cheat Sheet</h1>
+    
+    <h2>Headings</h2>
+    <p>
+    Headings from h1 to h6 dentfy blocks and sections. Every page must have one 'h1'.
+    </p>
+    
+  </body>
+</html>
